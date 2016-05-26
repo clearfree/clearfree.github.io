@@ -1,0 +1,4 @@
+Sitemap: http://clearfree.co.uk/sitemapindex.xml
+
+User-Agent: *
+Host: clearfree.co.uk
