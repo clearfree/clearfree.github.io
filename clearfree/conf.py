@@ -168,7 +168,7 @@ THEME_COLOR = '#5670d4'
 #
 
 POSTS = []
-PAGES = [("pages/*.txt", "", "story.tmpl")]
+PAGES = [("pages/*.rst", "", "story.tmpl")]
 
 
 # Below this point, everything is optional
