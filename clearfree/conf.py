@@ -526,7 +526,7 @@ REDIRECTIONS = []
 # plugin (`nikola plugin -i ping`).  Or run `nikola check -l`.
 # You may also want to use github_deploy (see below).
 # You can define multiple presets and specify them as arguments
-# to `nikola deploy`.  If no arguments are specified, a preset
+# to `nikola deploy`.  If no arguments are specied, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
 # DEPLOY_COMMANDS = {
@@ -959,7 +959,7 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True
