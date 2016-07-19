@@ -2,3 +2,10 @@ create venv
 pyvenv-3.5 .
 
 
+
+Deploy to github
+----------------
+
+$ nikola github_deploy
+
+
